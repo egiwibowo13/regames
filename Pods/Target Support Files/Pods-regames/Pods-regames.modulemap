@@ -1,0 +1,6 @@
+framework module Pods_regames {
+  umbrella header "Pods-regames-umbrella.h"
+
+  export *
+  module * { export * }
+}
